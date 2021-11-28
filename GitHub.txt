@@ -1,0 +1,26 @@
+GitHub
+1. Create new github account 
+2. download git bash 
+3. in git bash : type : 
+	-cd Desktop // means you will change the directory for project 
+	-git clone "link from your guthub" after .(dot) git
+	-you can see the project which was created in site sent to your git
+	// Shortly you transfer your project to git in Desktop 
+4. you can open your any file with vscode.
+5. in order to checking actions, type the code: git status 
+6. after you may see each changes
+ 
+TO BE HONEST I LOVED <<<GitHub>>>
+
+These files are not in the cloud(your GitHub account)
+	 3 steps to transfer them
+1. git add . (for all changes) git add (name of file)
+2. git status -> git commit -m "here your comment about changes"
+3. git status 
+4. git push // for sending to online cloud 
+
+If you wanna get files in your online repository, with any changes
+ you should type "pull"  
+Your partner changed the project and you want to get it.
+
+ - git pull // get project with changes to your local git bash 
