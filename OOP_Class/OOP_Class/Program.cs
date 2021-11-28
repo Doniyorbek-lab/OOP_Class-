@@ -4,6 +4,7 @@ namespace OOP_Class
 {
     class Program
     {
+        Console.WriteLine("I changed something here");
         static void Main(string[] args)
         {
             var student = GetStudent();
